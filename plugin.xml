@@ -88,8 +88,8 @@
       <string>production</string>
     </config-file>
 
-    <!--<podspec src="OneSignal" spec="2.13.1" />-->
-    <framework src="OneSignal" type="podspec" spec="2.13.1" />
+    <!--<podspec src="OneSignal" spec="2.13.1" />
+    <framework src="OneSignal" type="podspec" spec="2.13.1" />-->
       <podspec> 
    <config> 
      <source url="https://github.com/CocoaPods/Specs.git"/> 
